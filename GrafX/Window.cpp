@@ -14,7 +14,7 @@ void do_movement();
 const GLuint WIDTH = 800, HEIGHT = 600;
 int keys[1024];
 
-//Camera.
+//Camera
 Camera camera(glm::vec3(0.0f, 0.0f, 3.0f), glm::vec3(0.0f, 1.0f, 0.0f), -90.0f, 0.0f);
 GLfloat lastX = 400, lastY = 300;
 bool firstMouse = true;
