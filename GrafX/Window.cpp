@@ -286,6 +286,10 @@ void do_movement()
 		camera.processKeyboard(LEFT, deltaTime);
 	if (keys[GLFW_KEY_D])
 		camera.processKeyboard(RIGHT, deltaTime);
+	if (keys[GLFW_KEY_R])
+		camera.processKeyboard(UP, deltaTime);
+	if (keys[GLFW_KEY_F])
+		camera.processKeyboard(DOWN, deltaTime);
 }
 
 
