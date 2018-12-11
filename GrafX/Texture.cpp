@@ -1,4 +1,3 @@
-/*
 #include "Texture.h"
 
 #include "Shader.h"
@@ -75,4 +74,3 @@ void Texture::use(GLuint &program)
 	glUniform1i(glGetUniformLocation(program, "ourTexture2"), 1);
 
 }
-*/

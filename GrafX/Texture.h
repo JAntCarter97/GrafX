@@ -1,4 +1,3 @@
-/*
 #pragma once
 
 #include <GL/glew.h>
@@ -25,4 +24,4 @@ private:
 	GLuint m_texture2;
 	std::string m_filePath;
 };
-*/
+

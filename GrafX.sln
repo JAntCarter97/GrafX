@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C91DA2F2-3EAE-48D4-8615-415B7FA0A0E7}"
 	ProjectSection(SolutionItems) = preProject
 		GrafX\Shaders\lampShader.fs = GrafX\Shaders\lampShader.fs
+		lampShader.vs = lampShader.vs
 		GrafX\Shaders\shader.fs = GrafX\Shaders\shader.fs
 		GrafX\Shaders\shader.vs = GrafX\Shaders\shader.vs
 	EndProjectSection
